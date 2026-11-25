@@ -91,8 +91,6 @@ export default function Login({ onEnter }) {
             {loading ? 'Verificando...' : 'Ingresar'}
           </button>
         </form>
-
-        <button className="link" type="button">Olvidé mi contraseña</button>
       </div>
     </div>
   );
